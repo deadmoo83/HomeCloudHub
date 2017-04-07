@@ -47,7 +47,6 @@ definition(
 
 private getMyQAppId() {
     return 'Vj8pQggXLhLy0WHahglCD4N1nAkkXQtGYpq2HrHD7H1nvmbT55KqtN6RSF4ILB/i'
-	return 'JVM/G9Nwih5BwKgNCjLxiFUQxQijAebyyg8QUHr7JOrP+tuPb8iHfRHKwTmDzHOu'
 }
 
 private getLocalServerURN() {
